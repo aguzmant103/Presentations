@@ -7,7 +7,7 @@ This is a repository to host the presentations I have given. Any presentations h
 |[What is PSE? What do we do and how to get involved?](https://docs.google.com/presentation/d/1_9dZS--ryGfcCDB2b1dP8X4T4iCcd1E6fPHTQjeoPIA/edit?usp=sharing) | 30 Days of Web3 | 30W3 Office Hours | 24th Jan 2023 |  
 |Introduction to Wallets|Ethereum Costa Rica | [Taller I: Wallets, Tokens y Grants](https://www.meetup.com/ethereumcr/events/289942493/) | Dec 3rd 2022 |  
 |Introduction to Tokens| Ethereum Costa Rica | [Taller I: Wallets, Tokens y Grants](https://www.meetup.com/ethereumcr/events/289942493/) | Dec 3rd 2022 |
-|[Applied ZKP Workshop #4: Semaphore & Privacy] (https://www.youtube.com/watch?v=c0cKR78TIBg&t=8s)| [Applied ZKP Workshop](https://github.com/Poseidon-ZKP/Applied-ZKP-Workshop) |
+|[Applied ZKP Workshop #4: Semaphore & Privacy](https://www.youtube.com/watch?v=c0cKR78TIBg&t=8s)| [Applied ZKP Workshop](https://github.com/Poseidon-ZKP/Applied-ZKP-Workshop) |
 Workshop #4 | 24th Nov 2022 |
 
 
