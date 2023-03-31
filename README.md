@@ -3,10 +3,11 @@ This is a repository to host the presentations I have given. Any presentations h
 
 |     Title     |     Audience     |     Event     |     Date     |
 |     -----     |     -------      |     --------  |      ------- |
-|[Notions on Zero-Knowledge Proofs: Blockchain's perfect complement](https://www.youtube.com/watch?v=52f2lo4fhH8) | Telescoped Community | Meetup Station - Web3 | 23th March 2023 |  
-|[What is PSE? What do we do and how to get involved?](https://docs.google.com/presentation/d/1_9dZS--ryGfcCDB2b1dP8X4T4iCcd1E6fPHTQjeoPIA/edit?usp=sharing) | 30 Days of Web3 | 30W3 Office Hours | 24th Jan 2023 |  
+|[Notions on Zero-Knowledge Proofs: Blockchain's perfect complement](https://www.youtube.com/watch?v=52f2lo4fhH8) | Telescoped Community | Meetup Station - Web3 | Mar 23th 2023 |
+|[Intro a Ethereum Staking con Andy Guzmán](https://www.youtube.com/watch?v=0hjqYOCvJcA&) | ETH Kipu | Learning about Staking | Feb 10th 2023 |  
+|[What is PSE? What do we do and how to get involved?](https://docs.google.com/presentation/d/1_9dZS--ryGfcCDB2b1dP8X4T4iCcd1E6fPHTQjeoPIA/edit?usp=sharing) | 30 Days of Web3 | 30W3 Office Hours | Jan 24th 2023 |  
 |Introduction to Wallets|Ethereum Costa Rica | [Taller I: Wallets, Tokens y Grants](https://www.meetup.com/ethereumcr/events/289942493/) | Dec 3rd 2022 |  
 |Introduction to Tokens| Ethereum Costa Rica | [Taller I: Wallets, Tokens y Grants](https://www.meetup.com/ethereumcr/events/289942493/) | Dec 3rd 2022 |
-|[Applied ZKP Workshop #4: Semaphore & Privacy](https://www.youtube.com/watch?v=c0cKR78TIBg&t=8s)| [Applied ZKP Workshop](https://github.com/Poseidon-ZKP/Applied-ZKP-Workshop) | Workshop #4 | 24th Nov 2022 |
+|[Applied ZKP Workshop #4: Semaphore & Privacy](https://www.youtube.com/watch?v=c0cKR78TIBg&t=8s)| [Applied ZKP Workshop](https://github.com/Poseidon-ZKP/Applied-ZKP-Workshop) | Workshop #4 | Nov 24th 2022 |
 
 
