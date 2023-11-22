@@ -3,8 +3,7 @@ This is a repository to host the presentations I have given. Any presentations h
 
 |     Title     |     Audience     |     Event     |     Date     |
 |     -----     |     -------      |     --------  |      ------- |
-| Challenges and opportunities of staking in underrepresented regions
- ([recording](https://www.youtube.com/watch?v=FKfhTl5jaZM)) ([slides](https://docs.google.com/presentation/d/1lJCt45J2vjpYcryARuoEwylZutfoZUXomQzSzqu-640/edit?usp=sharing)) | [EthStaker]([https://twitter.com/Web3BuidlerTech](https://ethstaker.cc/events/staking-gathering-2023)) | [Devconnect - EthStaker: The Gathering]([https://twitter.com/Web3BuidlerTech](https://ethstaker.cc/#staking-gathering)) | 2023-11-13 |
+| Challenges and opportunities of staking in underrepresented regions ([recording](https://www.youtube.com/watch?v=FKfhTl5jaZM)) ([slides](https://docs.google.com/presentation/d/1lJCt45J2vjpYcryARuoEwylZutfoZUXomQzSzqu-640/edit?usp=sharing)) | [EthStaker](https://ethstaker.cc/events/staking-gathering-2023) | [Devconnect - EthStaker: The Gathering](https://ethstaker.cc/#staking-gathering) | 2023-11-13 |
 | zkWebAuth: zkVerifiers (recording) ([slides](https://docs.google.com/presentation/d/1p3zz7xBGrDS6Mf5GYuaNC72h9Ff6tgtAXo95VX2A6nY/edit?usp=sharing)) | [CryptIst](https://www.cryptist.org/) | Devconnect - CryptIst | 2023-11-11 |
 | Introducing PSE: Open source research and tooling for you (recording) ([slides](https://docs.google.com/presentation/d/1EwitGkQLNHhtjfcpgGq8NjbvenfpqKZPRXbqhfA6KLs/edit?usp=sharing) |  [CryptIst](https://www.cryptist.org/) | Devconnect - CryptIst | 2023-11-11 |
 | Meeting PSE: Getting Involved With ZK Projects ([recording](https://www.youtube.com/watch?v=U6zy_UCtUlY)) ([slides](https://docs.google.com/presentation/d/1zXAsGyyq_DZ2WdGjCow3cP0TVhTxkfRaa3q3Rz6z4U4/edit?usp=sharing)) |  [Web3BuidlerTech](https://twitter.com/Web3BuidlerTech) | Weekly Friday Cal | 2023-07-07 |
