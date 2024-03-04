@@ -3,6 +3,8 @@ This is a repository to host the presentations I have given. Any presentations h
 
 |     Title     |     Audience     |     Event     |     Date     |
 |     -----     |     -------      |     --------  |      ------- |
+| Workshop: running your own Ethereum full node [(recording)]()([slides](https://docs.google.com/presentation/d/1iS-hDVPj0e6StHHeZyAe0ANw8-Fg8s-gzR1RwV54NX0/edit?usp=sharing))| [Ethereum Costa Rica](https://ethereum.cr/) | Monthly Meetup | TBD |
+| Identidad web3: expandiendo lo posible con zero-knowledge [(recording)]()([slides](https://docs.google.com/presentation/d/15oWQKdUoTlGfiF1kQ7RuKY2BxDdnl-s5c2rtZvWmCZ0/edit?usp=sharing))| [ETH Latam]([https://ethereum.cr/](https://ethlatam.org/)) | ETHLatam 2024 | 13-03-24 |
 | Challenges and opportunities of staking in underrepresented regions ([recording](https://www.youtube.com/watch?v=FKfhTl5jaZM))([slides](https://docs.google.com/presentation/d/1lJCt45J2vjpYcryARuoEwylZutfoZUXomQzSzqu-640/edit?usp=sharing)) | [EthStaker](https://ethstaker.cc/events/staking-gathering-2023) | [Devconnect - EthStaker: The Gathering](https://ethstaker.cc/#staking-gathering) | 2023-11-13 |
 | zkWebAuth: zkVerifiers (recording) ([slides](https://docs.google.com/presentation/d/1p3zz7xBGrDS6Mf5GYuaNC72h9Ff6tgtAXo95VX2A6nY/edit?usp=sharing)) | [CryptIst](https://www.cryptist.org/) | Devconnect - CryptIst | 2023-11-11 |
 | Introducing PSE: Open source research and tooling for you (recording) ([slides](https://docs.google.com/presentation/d/1EwitGkQLNHhtjfcpgGq8NjbvenfpqKZPRXbqhfA6KLs/edit?usp=sharing) |  [CryptIst](https://www.cryptist.org/) | Devconnect - CryptIst | 2023-11-11 |
